@@ -28,6 +28,7 @@ Requirements
 -	You can choose the language of your choice.
 -	OS needs to be Standard Ubuntu 20.04 LTS/
 
+**Advanced**
 
 Tasks
 -----
@@ -97,12 +98,10 @@ julien@ubuntu:~/factors$
 
 -   GitHub repository: `RSA-Factoring-Challenge`
 -   File: `factors`
-
 -------------------------------------------------------
 
 
 -------------------------------------------------------
-
 ### 1\. RSA Factoring Challenge
 
 RSA Laboratories states that: for each RSA number `n`, there exist prime numbers `p` and `q` such that
@@ -144,4 +143,3 @@ julien@ubuntu:~/RSA Factoring Challenge$ [...]
 -   GitHub repository: `RSA-Factoring-Challenge`
 -   File: `rsa`
 -------------------------------------------------------
-
